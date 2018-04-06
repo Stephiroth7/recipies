@@ -1,18 +1,20 @@
-INGREDIENTS:
+##Banana Bread
 
-3 over ripe bananas
-1/3 c. melted butter
-1/4 c. brown sugar
-1/4 c. white sugar
-1 egg, beaten
-1 tsp. vanilla extract
-1 tsp baking soda
-1/8 tsp salt
-1 1/2 c. all-purpose-flour
+###INGREDIENTS:
 
-optional: a total of 1 c. nuts or dried fruit
+3 over ripe bananas  
+1/3 c. melted butter  
+1/4 c. brown sugar  
+1/4 c. white sugar  
+1 egg, beaten  
+1 tsp. vanilla extract  
+1 tsp baking soda  
+1/8 tsp salt  
+1 1/2 c. all-purpose-flour  
 
-PREPARATION:
+optional: a total of 1 c. nuts or dried fruit  
+
+###PREPARATION:
 
 1. preheat oven to 350 degrees, and butter a 2-qt. capacity pan
 2. mash the bananas in a bowl.
