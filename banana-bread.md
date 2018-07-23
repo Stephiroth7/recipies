@@ -1,28 +1,25 @@
-##Banana Bread
 
-###INGREDIENTS:
+INGREDIENTS 
+2 cups flour
+1 teaspoon baking soda
+1⁄4 teaspoon salt
+1 tsp cinnamon
+1 egg
+1 cup sugar
+1⁄2 cup vegetable oil
+2 tablespoons buttermilk or yogurt
+1 teaspoon vanilla extract
+3 ripe medium-large bananas, mashed
+1⁄2 cup chopped walnuts
 
-3 over ripe bananas  
-1/3 c. melted butter  
-1/4 c. brown sugar  
-1/4 c. white sugar  
-1 egg, beaten  
-1 tsp. vanilla extract  
-1 tsp baking soda  
-1/8 tsp salt  
-1 1/2 c. all-purpose-flour  
 
-optional: a total of 1 c. nuts or dried fruit  
 
-###PREPARATION:
-
-1. preheat oven to 350 degrees, and butter a 2-qt. capacity pan
-2. mash the bananas in a bowl.
-3. stir in the melted butter.
-4. mix in the baking soda and salt.
-5. stir in the sugar, beaten egg, and vanilla.
-6. incorporate the flour without overmixing.
-7. add the optional ingredients
-8. bour batter into buttered pan
-9. bake for 60 - 75 minutes, or until a tester inserted into the center comes out clean.
-10. cool completely on a rack before slicing.
+DIRECTIONS
+* Preheat oven to 350. Grease a 9x5x3 loaf pan and dust lightly with some flour.  (Or use cake release)
+* Blend the flour, baking soda, salt and cinnamon together so it's completely mixed.
+* Add a tablespoon or two of flour mix to the walnuts and stir to coat them. (This will help prevent them from sinking down as the bread cooks.)
+* Mix the egg, sugar, vegetable oil, vanilla, and milk until combined.
+* Add the flour mixture to the liquid mixture and stir until just combined.
+* Fold the chopped walnuts into the mix and pour the batter into the loaf pan.
+* Bake for 50-60 minutes in the center rack of the oven until a knife comes out clean.  
+* Sometimes I check it at 45 minutes and put some tin foil over the top to prevent burning.
