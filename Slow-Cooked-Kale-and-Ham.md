@@ -5,19 +5,21 @@ Total time:  6 hours 20 mins
 Serves: 6-8
  
 **INGREDIENTS:** 
-1 meaty smoked ham hock, or 4 or 5 ham hock slices (about 8 ounces)
-1½ cups water
-1 cup chicken broth, low sodium or homemade
-12 cups torn kale leaves, tough ribs and stems discarded (2 inch pieces)
-2 tablespoons bacon grease, vegetable oil, or olive oil
-1 onion thinly sliced
-¼ teaspoon cayenne pepper, or to taste
-2 tablespoons apple cider vinegar, plus more to serve
-Salt and pepper
-Hot sauce for serving
+
+* 1 meaty smoked ham hock, or 4 or 5 ham hock slices (about 8 ounces)  
+* 1½ cups water  
+* 1 cup chicken broth, low sodium or homemade  
+* 12 cups torn kale leaves, tough ribs and stems discarded (2 inch pieces)  
+* 2 tablespoons bacon grease, vegetable oil, or olive oil  
+* 1 onion thinly sliced  
+* ¼ teaspoon cayenne pepper, or to taste  
+* 2 tablespoons apple cider vinegar, plus more to serve  
+* Salt and pepper  
+* Hot sauce for serving  
 
 
-*PREPARATION:**
+**PREPARATION:**
+
 1. Put the ham hock in a microwavable bowl and cover with the water and chicken broth. Cover and microwave on high for 3 minutes, or until bubbly.
 2. Spray the inside of the slow cooker with cooking spray, then add the greens to the slow cooker.
 3. Heat a large pan on the stovetop over medium-high heat and add the bacon drippings. Add the onion and saute until translucent and lightly browned, 5 to 7 minutes. Add the onions to the slow cooker. Then pour in the ham hock mixture and stir.
@@ -26,4 +28,4 @@ Hot sauce for serving
 
 
 #### NOTE:
-**Worked great with chinese sausage (lap chong) will probably work with italian sausage as well.
+**Worked great with equivalent weight chinese sausage (lap chong) will probably work with italian sausage as well.
