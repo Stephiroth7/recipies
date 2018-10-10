@@ -17,4 +17,4 @@ You can also just chop very finely by hand, but that's difficult, especially wit
 2. Push the cranberries, orange sections, and apple slices through the grinder. Include the orange peel! Alternate the fruit as you push it through the grinder so that different fruits get ground together.
 3. Stir in the sugar. (Start with less than a cup and keep adding 1/4 cups until you reach your desired level of sweetness.) Let sit at room temperature until the sugar dissolves, about 45 minutes. Store in the refrigerator until ready to use.
 
-####NOTES:
+#### NOTES:
