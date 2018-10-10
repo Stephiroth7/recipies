@@ -1,7 +1,7 @@
 ## Cranberry Orange Relish
 http://www.simplyrecipes.com/recipes/cranberry_relish/#ixzz3NvQ8YdN5
 
-** INGREDIENTS:** 
+**INGREDIENTS:** 
 
 * 2 cups rinsed raw cranberries
 * 2 skinned and cored tart green apples, cut into thick slices
