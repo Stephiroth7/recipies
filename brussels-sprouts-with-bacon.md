@@ -2,7 +2,7 @@
 * 2 lbs 908g fresh Brussels sprouts, cut in half lengthwise (top to bottom)
 * 1 medium red onion roughly chopped
 * 6 cloves garlic roughly chopped
-* * 1 teaspoon kosher salt
+* 1 teaspoon kosher salt
 * 1 teaspoon freshly ground black pepper
 * Pinch of red pepper flakes
 * 2 Tablespoons extra virgin oil
