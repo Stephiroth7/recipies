@@ -13,10 +13,19 @@
 * preheat oven to 350 F.  Have two parchment-lined baking sheets ready, as well as a piping bag with large round tip.
 
 1. Sift together the almond flour and confectioners sugar.
+
+OPTION 1 (swiss meringue):
 2. Mix whites and sugar together in a bowl or in a double boiler pan. The water should not be boiling, only simmering.
 3. Whisk the whites and sugar together until the sugar is completely dissolved.
 4. Remove from heat and start whipping the mixture at high speed until stiff peaks form.  This could take from 3 - 5 minutes.
-5. As soon as the eggs reach stiff peaks, stopp whipping.  
+
+OPTION 2:
+2. place room temperature egg whites in the stand mixer, increasing from low to medium.
+3. add sugar slowly, a tablespoon at a time, while the egg whites are mixing.  Try to ensure that there are no sugar granules left.
+4. beat until the egg whites are glossy and smooth.
+
+
+5. As soon as the eggs reach stiff peaks, stop whipping.  
 6. Add the almond and sugar mixture in three parts, scooping with a "J" motion to incorporate and push air out of the mixture.
 (This step is called macaronage, and is where you could add 1-2 drops of food coloring as well.)
 7. The mixture should be the consistency where if you pick up a spatula-full and pour it down into the bowl, it is able to make a figure-8 shape without breaking.
