@@ -1,17 +1,21 @@
 # Brownies
 
+* makes a 1/2 sheet pan, 12" x 16", 192" sq.
+* scale down to 30% to make an 8" x 8" pan.
+* scale down to 25% to make a 5.5" X 9" loaf pan 
+
 **INGREDIENTS**
 
-* 1 1/2 cups flour
-* 1/2 tsp baking soda
+* 1 1/2 cups flour (188 g)
+* 1/2 tsp baking soda 
 * 1/2 tsp salt
-* 2/3 cup butter
-* 1 1/2 cups sugar
-* 4 Tbls water
+* 2/3 cup butter (152 g)
+* 1 1/2 cups sugar (300 g)
+* 4 Tbsp water (60 mL)
 * 2 cups chocolate chips
 * 2 tsp vanilla
-* 4 eggs
-* 1/2 cup walnuts, chopped
+* 4 eggs (228 g)
+* 1/2 cup walnuts, chopped. optional.
 
 **PREPARATION:**
 
