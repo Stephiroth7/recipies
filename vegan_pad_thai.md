@@ -3,13 +3,16 @@
 **INGREDIENTS**
 SAUCE
 1/4 cup tamari sauce , low sodium (GF if preferred) Sub soy sauce
-1/4 cup agave nectar (sub with maple syrup) OR 3 TBSP Brown Sugar
-3 TBSP vegetable broth , low sodium
-2 TBSP rice vinegar
-2 TBSP peanut butter , creamy (optional)
-1 TBSP sriracha , more to taste
+1/4 cup agave nectar (sub with maple syrup) OR 2 TBSP Brown Sugar
+2 TBSP vegetable broth, low sodium
+2 TBSP rice vinegar 
+2 TSP tamarind paste (optional)
+1 TBSP peanut butter , creamy (optional)
+1 TBSP sriracha or chili-garlic sauce (sambal oelek), more to taste 
 1 TBSP finely sliced Nori
-1 TSP tamarind paste (optional)
+1 TBSP grated peeled ginger 
+1 clove garlic, peeled & smashed 
+
 
 
 STIR FRY
