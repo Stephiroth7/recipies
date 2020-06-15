@@ -1,6 +1,6 @@
 ## TIKKA MASALA SAUCE
 
-*INGREDIENTS*
+**INGREDIENTS**
 
 * 2 tablespoons of coconut oil
 * 2 small onions (or 1 large onion) finely diced
@@ -21,7 +21,7 @@
 
 * 4 tablespoons fresh cilantro or coriander to garnish
 
-*PREPARATION*
+**PREPARATION**
 
 1. Melt the coconut oil in a wide, shallow saute pan. 
 2. Fry the onions until soft (about 3 minutes) while scraping up any browned bits stuck on the bottom of the pan. 
