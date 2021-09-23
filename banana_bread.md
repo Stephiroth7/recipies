@@ -29,3 +29,5 @@
 #### NOTES
 * Sometimes I check it at 45 minutes and put some tin foil over the top to prevent burning.  
 * You can also add up to another half cup of nuts or dried fruit.
+
+* to make CHOCOLATE: substitute 1⁄4 cup cocoa powder in the flour and add 1 TBSP more sugar, optional additional 1⁄2 cup chocolate chips.
