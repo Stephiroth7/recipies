@@ -7,9 +7,10 @@
 * 1 1/2 cups granulated sugar (can omit up to 1/2 cup for preference)
 * 3 large eggs
 * 1 1/2 cups all purpose flour
+* 1/4 cup cocoa powder
 * 1 tsp baking soda
 * 1/2 tsp salt
-* 1 1/2 cups hot water
+* 1 1/2 cups hot water (coffee preferred)
  
  
 **PREPARATION:**
