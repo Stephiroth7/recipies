@@ -11,7 +11,7 @@
 * 1/2 tsp salt (2.5 g)
 * 2/3 cup butter (152 g)
 * 1 1/2 cups sugar (300 g)
-* 4 Tbsp water (60 mL)
+* 4 Tbsp water or strong coffee (60 mL)
 * 2 cups chocolate chips (170 g)
 * 2 tsp vanilla (10 mL)
 * 4 eggs (228 g)
