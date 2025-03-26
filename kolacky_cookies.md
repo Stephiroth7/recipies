@@ -1,4 +1,4 @@
-# Fruit Filled Kolacky Cookies
+# Filled Kolacky Cookies
 
 * Makes app'x. 30 Cookies
 * Requires chilling dough min 2 hours
@@ -30,17 +30,19 @@ Cover half sheet baking pan in parchment paper
 * Take one of the disks of dough from the refrigerator and lightly flour both sides. 
 * Spread granulated sugar on your pastry board or work surface.
 * Place the dough on top and roll out pastry 1/8” to 1/16” thick. (Thinner is better)
-* Cut as many 2 inch squares or rounds a possible, saving the scraps for later reuse.
-* Place ½ to ¾ teaspoon of filling into the center of each square.
-* Gently grab two opposite corners and fold one over the other, gently pressing down to try and seal them together. Water may help seal them.
-* Gently move the cookie to a parchment covered baking sheet, no closer than 1” apart.
-* Bake 12-14 minutes or until the bottom edges are a golden, let cool slightly, and then move to a wire rack.
+* Cut as many 3 inch squares or rounds a possible, saving the scraps for later reuse.
+* Gently move the unfilled dough to a parchment covered baking sheet.
+* Place ½ to ¾ teaspoon of filling into the center of each square in a line.
+* Gently grab two opposite corners and fold one over the other, lightly pressing down to try and seal them together. (Water may help seal them.)
+* Rearrange cookies so that they are no closer than 1" apart on the baking sheet.
+* Bake 12-14 minutes or until the bottom edges are a golden, let cool slightly, and then move to a wire rack to cool.
+* (Optional) Dust with powdered sugar after baking and cooling
 
 NOTES:
 * Don’t chill the assembled cookies prior to baking them. This re-solidifies the butter in the dough and will cause them to puff too much and open the cookies!
-* Pressing the dough down slightly in the center will help keep them from popping open during baking.
-  * Make them larger will also help prevent popping open
-* Dust with powdered sugar after baking and cooling
+* Pressing the dough down slightly in the center and along the folds will help keep them from popping open during baking.
+ * Making them larger will also help prevent popping open
+
 
 STORAGE:
 * Unbaked, unassembled cookies can be stored in the freezer and brought to room temperature before assembly & baking.
