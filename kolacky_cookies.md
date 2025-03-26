@@ -1,6 +1,6 @@
 # Filled Kolacky Cookies
 
-* Makes app'x. 30 Cookies
+* Makes app'x. 36-42 Cookies
 * Requires chilling dough min 2 hours
 
 **INGREDIENTS - DOUGH** 
