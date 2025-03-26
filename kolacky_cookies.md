@@ -14,7 +14,7 @@
 * various fillings - store bought jams and pastry fillings are fine, but pie filling will likely be too loose.
 
 Homemade:
-* Fruit - 150g frozen high-pectin fruit, 100g sugar, juice of ½ lemon, simmer on low heat until thick, blend if necessary
+* Fruit - 150g frozen high-pectin fruit, 100g sugar, juice of ½ lemon, 1/4 tsp corn starch, simmer on low heat until thick, blend if necessary
 * Nut - ¼ lb finely ground/chopped nuts, 1 tbsp melted butter, ½ c sugar, ¼ c hot milk, let sit 10 mins until thick.
 
 
