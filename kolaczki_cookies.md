@@ -28,7 +28,8 @@ Cover half sheet baking pan in parchment paper
 * Reduce the speed of the mixer and *slowly* add in the flour. The dough will be soft but not sticky.
 * Divide the dough into 4 equal parts and flatten each to ¾” thick. Wrap in plastic wrap and refrigerate until hard, at least 2 hours.
 * Take one of the disks of dough from the refrigerator and lightly flour both sides. 
-* Spread granulated sugar on your pastry board or work surface.
+* Spread granulated sugar on your pastry board or work surface to roll the dough onto.
+  * alternatively, sprinkle sugar on the dough once it's rolled out but before cutting.
 * Place the dough on top and roll out pastry 1/8” to 1/16” thick. (Thinner is better)
 * Cut as many 3 inch squares or rounds a possible, saving the scraps for later reuse.
 * Gently move the unfilled dough to a parchment covered baking sheet.
