@@ -1,5 +1,5 @@
 # Scoop Volume/Weight Chart
-https://www.webstaurantstore.com/guide/717/kitchen-scoop-and-disher-guide.html
+(https://www.webstaurantstore.com/guide/717/kitchen-scoop-and-disher-guide.html)
 
 | Color      | Size Number | Scoop Diameter | Fluid Capacity     | Weight (water) | Imperial (tsp, tbsp, cups) |
 | ---------- | ----------- | -------------- | ------------------ | -------------- | -------------------------- |
