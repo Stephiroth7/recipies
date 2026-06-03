@@ -5,20 +5,20 @@
 CRUST
 
 * 2 Cups Flour
-* 1/2 Cup Sugar
+* 1/2 Cup white Sugar
 * Pinch of salt
-* 3/4 Cup Cold Butter
-* 1 tsp cold water
-* 1/2 cup chopped almonds or almond flour
+* 3/4 Cup Butter
+* 1 - 2 tbsp cold water
+* 1/2 cup almond flour (or finely chopped almonds)
 
 LEMON LAYER
 
-* 4 Eggs
-* 2 Cups Sugar
-* 2 Tbls Flour
-* 1/2 Tsp baking powder
+* 4 whole Eggs
+* 1 1/2 cups white Sugar (up to 2 cups)
+* 2 Tbsp Flour
+* 1/2 Tsp baking powder (optional, makes a slightly lighter filling)
 * Grated rind of two large lemons 
-* 1/4 cup (or more) lemon juice up to 1/2 cup
+* 1/4 cup lemon juice (up to 1/2 cup for more lemony flavor)
 
 **PREPARATION** 
 
@@ -34,4 +34,5 @@ LEMON LAYER
 #### NOTES:
 * spray the pan with baking spray and line the bottom with parchment.
 * try to make the crust come up the edges a little bit- it's easier to reserve a litttle bit of the dough, so that you can build up edges after it's been pressed in.
+* peel the lemons prior to juicing and use peels to make an oleosaccharum with the sugar for the lemon filling, this will give more lemon flavor due to the higher amount of lemon oil.
 * if you bake longer than 25 minutes, the top might get brown.  The filling may pull away from the crust edges as well.
