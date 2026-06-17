@@ -3,14 +3,14 @@ From Wilton: https://wilton.com/chocolate-chocolate-cake/wlrecip-92/
 
 **INGREDIENTS:** 
 
-* 1 ½ cups all purpose flour
-* ¼ cup cocoa powder
+* 2 ½ cups (300 g) all purpose flour
+* ¼ cup (20 g) cocoa powder
 * 1 tsp baking soda
 * ½ tsp salt
 
-* ¾ cup butter
-* 2 cups dark chocolate chips
-* 1 ½ cups granulated sugar (can omit up to 1/2 cup for preference)
+* ¾ cup (1 ½ sticks or 180 g) butter
+* 2 cups (340 g) dark chocolate chips (ghirardelli used as imperial - metric conversion)
+* 1 ½ cups (300 g) granulated white sugar (can omit up to 1/2 cup for preference)
 * 2 tsp vanilla extract
 * 1 ½ cups hot water (strong coffee preferred)
 * 3 large eggs
