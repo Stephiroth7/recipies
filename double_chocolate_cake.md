@@ -1,17 +1,20 @@
 ## DOUBLE CHOCOLATE CAKE
+From Wilton: https://wilton.com/chocolate-chocolate-cake/wlrecip-92/
 
 **INGREDIENTS:** 
-* 2 tsp vanilla extract
-* 2 cups chocolate chips
-* 3/4 cup butter
-* 1 1/2 cups granulated sugar (can omit up to 1/2 cup for preference)
-* 3 large eggs
-* 1 1/2 cups all purpose flour
-* 1/4 cup cocoa powder
+
+* 1 ½ cups all purpose flour
+* ¼ cup cocoa powder
 * 1 tsp baking soda
-* 1/2 tsp salt
-* 1 1/2 cups hot water (coffee preferred)
- 
+* ½ tsp salt
+
+* ¾ cup butter
+* 2 cups dark chocolate chips
+* 1 ½ cups granulated sugar (can omit up to 1/2 cup for preference)
+* 2 tsp vanilla extract
+* 1 ½ cups hot water (strong coffee preferred)
+* 3 large eggs
+
  
 **PREPARATION:**
 
@@ -19,8 +22,8 @@
 * preheat the oven to 350 F.
 
 1. Mix the flour, baking soda, and salt together and set aside.
-2. Melt the chocolate chips and butter together in the microwave, about 90 seconds.  Stir until the chips are completely melted. . 
-3. Pour into an electric mixer and add the sugar; beat until well blended.  
+2. Melt the chocolate chips and butter together in the microwave in a large bowl, about 90 seconds.  Stir until the chips are completely melted.
+3. Add the sugar; beat until well blended.  
 4. While beating, add the eggs one at a time.  Add the vanilla.
 5. Add half the flour mixture and mix well.  
 6. Add the water and continue mixing until the batter is smooth.
