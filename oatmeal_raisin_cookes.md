@@ -16,12 +16,13 @@ from Sally's Cookie Addiction
 * 1 tablespoon (20 g) dark or unsulphured molasses
 * 2 teaspoons vanilla extract
 * 3 cups (270 g) old fashioned whole rolled oats
-* 1 ½ cups (220 g) raisins
+* 1 ½ cups (220 g) raisins, soaked in hot water for 30 mins
 * ½ cup (60 g) chopped toasted nuts (pecans, walnuts)
 
 
 **PREPARATION**
 
+Pat dry the raisins that have been soaking
 Preheat oven to 350F (310 super convection) 
 Cover half sheet baking pan in parchment paper 
 
