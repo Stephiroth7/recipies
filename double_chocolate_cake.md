@@ -21,7 +21,7 @@ From Wilton: https://wilton.com/chocolate-chocolate-cake/wlrecip-92/
 * have one 13 x 9 x 2 cake pan, oiled and floured. 
 * preheat the oven to 350 F.
 
-1. Mix the flour, baking soda, and salt together and set aside.
+1. Mix the flour, baking soda, cocoa, and salt together and set aside.
 2. Melt the chocolate chips and butter together in the microwave in a large bowl, about 90 seconds.  Stir until the chips are completely melted.
 3. Add the sugar; beat until well blended.  
 4. While beating, add the eggs one at a time.  Add the vanilla.
