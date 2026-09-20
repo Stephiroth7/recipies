@@ -1,5 +1,6 @@
 ## CINNAMON (CARDAMOM) ROLLS
 Adapted from https://sallysbakingaddiction.com/easy-cinnamon-rolls-from-scratch/
+
 makes app'x 10 - 12 rolls at 1.25" thickness
 
 
@@ -71,4 +72,8 @@ makes app'x 10 - 12 rolls at 1.25" thickness
 2. Place the rolls in a greased rice cooker bowl
 3. Use the "Cake" function of the rice cooker and cook for 40 - 45 minutes, or until internal temperature is 195–200°F (91–93°C).
 4. Leave bare, glaze, or cover in cream cheese icing as preferred
+
+*FREEZING*
+* This recipe can be frozen them after shaping, before the rolls rise.
+* Thaw in the refrigerator overnight, then let rise for 1.5 – 2 hours at room temperature before baking.
 
