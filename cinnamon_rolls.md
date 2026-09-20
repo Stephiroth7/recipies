@@ -59,8 +59,8 @@ makes app'x 10 - 12 rolls at 1.25" thickness
 3. Starting from the top, roll the widest end towards yourself
 4. Keep rolling until fully rolled into a log
 5. Measure the dough to get 10 to 12 same-width pieces and mark them
-6. Use a piece of thread to cut the rolls since it's very soft
-  Slide the thread underneath the log where you've made your increments and cross the ends to pinch-cut the roll
+6. Use a piece of thread to cut the rolls since it's very soft. 
+  Slide the thread underneath the log where you've made your increments and cross the ends to pinch-cut the roll.
 7. arrange the pieces in a lightly greased 9- or 10-inch pan
 
 *Let Rolls Rise*
@@ -80,6 +80,6 @@ makes app'x 10 - 12 rolls at 1.25" thickness
 4. Leave bare, glaze, cover in cream cheese icing, or coat in syrup & sprinkle spiced sugar as preferred.
 
 *FREEZING*
-* This recipe can be frozen them after shaping, before the rolls rise.
-* Thaw in the refrigerator overnight, then let rise for 1.5 – 2 hours at room temperature before baking.
+* This recipe can be frozen after shaping, but before the rolls rise.
+* Thaw frozen rolls in the refrigerator overnight, then let rise for 1.5 – 2 hours at room temperature before baking.
 
