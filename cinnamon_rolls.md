@@ -1,7 +1,9 @@
 ## CINNAMON (CARDAMOM) ROLLS
-Adapted from https://sallysbakingaddiction.com/easy-cinnamon-rolls-from-scratch/
+Adapted from https://sallysbakingaddiction.com/easy-cinnamon-rolls-from-scratch/ and https://true-north-kitchen.com/traditional-swedish-cardamom-buns-kardemummabullar/
 
-makes app'x 10 - 12 rolls at 1.25" thickness
+Makes app'x 10 - 12 rolls at 1.25" thickness
+
+Three options for topping are provided: Vanilla Glaze, Cream Cheese Frosting, Simple Syrup + Sugar.
 
 
 ### INGREDIENTS
@@ -33,9 +35,9 @@ makes app'x 10 - 12 rolls at 1.25" thickness
 * 1 teaspoon pure vanilla extract
   
 *SYRUP + SPICED SUGAR*
-* 2 Tablespoons granulated white sugar
-* 1 Teaspoon crushed fresh cardamom seeds
-* 2 Tablespoons simple syrup (2:1 sugar to water in microwave for ~1 minute)
+* 2 Tablespoons granulated white sugar + 1 Teaspoon crushed fresh cardamom seeds
+* 2 Tablespoons simple syrup (2:1 sugar to water in microwave for ~1 minute or until dissolved)
+* Brush simple syrup over rolls and sprinkle top with spiced sugar.
 
 
 ### PREPARATION
