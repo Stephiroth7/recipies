@@ -1,5 +1,7 @@
 ## CINNAMON (CARDAMOM) ROLLS
+Adapted from https://sallysbakingaddiction.com/easy-cinnamon-rolls-from-scratch/
 makes app'x 10 - 12 rolls at 1.25" thickness
+
 
 ### INGREDIENTS
 *DOUGH*
@@ -17,7 +19,12 @@ makes app'x 10 - 12 rolls at 1.25" thickness
 * 1 Tablespoon ground cinnamon OR [1½ teaspoon ground cinnamon + 1½ teaspoon fresh ground cardamom]
 
 
-*ICING*
+*ICING - Glaze*
+* 1 cups powdered sugar
+* 1 teaspoon vanilla extract
+* 2 tablespoons milk or water (see note 1)
+
+*FROSTING - Cream Cheese*
 * 4 ounces (113g) full-fat block cream cheese, softened to room temperature
 * 2 Tablespoons (28g) unsalted butter, softened to room temperature
 * ⅔ cup (80g) confectioners’ sugar
@@ -56,5 +63,12 @@ makes app'x 10 - 12 rolls at 1.25" thickness
 1. After the rolls have doubled in size, preheat the oven to 375°F (190°C).
 2. Bake for 24–27 minutes, or until lightly browned.
    If you notice the tops are getting too brown too quickly, loosely tent the pan with aluminum foil and continue baking.
-   If you want to be precise about their doneness, their internal temperature taken with an instant read thermometer should be around 195–200°F (91–93°C)
+   If you want to be precise about their doneness, their internal temperature taken with an instant read thermometer should be around 195–200°F (91–93°C).
+3. Leave bare, glaze, or cover in cream cheese icing as preferred.
+
+*Alternative Bake*
+1. Make half the recipe for dough and filling, and assemble as directed.
+2. Place the rolls in a greased rice cooker bowl
+3. Use the "Cake" function of the rice cooker and cook for 40 - 45 minutes, or until internal temperature is 195–200°F (91–93°C).
+4. Leave bare, glaze, or cover in cream cheese icing as preferred
 
