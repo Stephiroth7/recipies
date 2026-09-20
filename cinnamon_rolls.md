@@ -24,7 +24,7 @@ makes app'x 10 - 12 rolls at 1.25" thickness
 *ICING - Glaze*
 * 1 cups powdered sugar
 * 1 teaspoon vanilla extract
-* 2 tablespoons milk or water (see note 1)
+* 2 tablespoons milk or water (milk will be more rich)
 
 *FROSTING - Cream Cheese*
 * 4 ounces (113g) full-fat block cream cheese, softened to room temperature
