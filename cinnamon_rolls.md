@@ -31,8 +31,8 @@ makes app'x 10 - 12 rolls at 1.25" thickness
 * 2 Tablespoons (28g) unsalted butter, softened to room temperature
 * ⅔ cup (80g) confectioners’ sugar
 * 1 teaspoon pure vanilla extract
-
-* SYRUP + SPICED SUGAR*
+  
+*SYRUP + SPICED SUGAR*
 * 2 Tablespoons granulated white sugar
 * 1 Teaspoon crushed fresh cardamom seeds
 * 2 Tablespoons simple syrup (2:1 sugar to water in microwave for ~1 minute)
