@@ -2,7 +2,9 @@
 https://www.seriouseats.com/old-fashioned-flaky-pie-dough-recipe
 
 The ingredient amounts are supposed to be ratios.
+
 The flour and butter are a 1:1 ratio by weight. 
+
 The water amount is half of the flour amount by weight.
 
 *INGREDIENTS*
@@ -31,12 +33,14 @@ The water amount is half of the flour amount by weight.
 10. Aim for a thickness of between ⅛" and ¼", or between 3mm and 6mm.
 
 At this point, you can either place the flattened dough directly into the pie plate (or baking tray) and chill it for at least 1 hour.
+
 OR
+
 Chill the dough rounds in the fridge for at least 1 hour, then let it come to barely room temp so it's foldable without breaking. Then line the pie plate (baking tray).
 
-10. Chill the assembled pie (with filling & top) for at least 30 minutes before putting in the oven so that its butter doesn't leak out.
+11. Chill the assembled pie (with filling & top) for at least 30 minutes before putting in the oven so that its butter doesn't leak out.
 
 NOTES:
 * try to make sure the pie crust is _always cold_.
-* 1¾ cups (225 g) flour will yield enough for a 9-inch double crust pie. Make 14-inch rounds of dough.
-* 1¼ cups (150 g) of flour will yield enough for a 6-inch double-crust pie. Make 9-inch rounds of dough.
+* 1¾ cups (225 g) flour will yield enough for a 9-inch double crust pie. Make 14-inch rounds of dough to cover the edges.
+* 1¼ cups (150 g) of flour will yield enough for a 6-inch double-crust pie. Make 9-inch rounds of dough to cover the edges.
