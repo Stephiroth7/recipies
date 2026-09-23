@@ -2,14 +2,14 @@
 
 **INGREDIENTS**
 
-* 1/2 cup butter, softened
-* 1/2 cup butter flavored shortening
+* ½ cup butter, softened
+* ½ cup butter flavored shortening
 * 1 cup white sugar
 * 1 cup packed brown sugar
 * 2 eggs
 * 1 cup creamy peanut butter
 * 1 teaspoon vanilla extract
-* 2 1/2 cups all-purpose flour
+* 2 ½ cups all-purpose flour
 * 1 teaspoon baking soda
 
 **PREPARATION**
