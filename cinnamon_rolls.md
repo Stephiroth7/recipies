@@ -18,7 +18,7 @@ Three options for topping are provided: Vanilla Glaze, Cream Cheese Frosting, Si
 * 2 teaspoons crushed fresh cardamom seeds (very optional!)
 
 *FILLING*
-* 3 Tablespoons (43g) unsalted butter, softened but easily spreadable
+* 4 Tablespoons (55g) unsalted butter, softened but easily spreadable
 * ⅓ cup (67g) packed light or dark brown sugar
 * 1 Tablespoon ground cinnamon OR [1½ teaspoon ground cinnamon + 1½ teaspoon fresh ground cardamom]
 
@@ -46,10 +46,10 @@ Three options for topping are provided: Vanilla Glaze, Cream Cheese Frosting, Si
 
 *Make the Dough*
 1. Whisk the flour, sugar, and salt together in a large bowl. Set aside.
-2. Combine the milk and butter together in a heatproof bowl and microwave until the butter has melted and the mixture is warm to the touch (about 110°F/43°C, no higher).
+2. Combine the milk and butter (and optional cardamom) together in a heatproof bowl and microwave until the butter has melted and the mixture is warm to the touch (about 110°F/43°C, no higher).
 3. Whisk the yeast into the milk + butter until it has dissolved.
 4. Pour yeast-milk-butter mixture into the dry ingredients, add the egg, and stir with a sturdy rubber spatula or wooden spoon
-   OR use a stand mixer with a paddle attachment on medium speed and mix until a soft dough forms.
+   OR use a stand mixer with a paddle attachment on medium speed and mix until a soft dough forms, about 15 minutes.
 5. Transfer dough to a lightly floured surface. Using floured hands, knead the dough for 3-5 minutes. You should have a smooth ball of dough.
    If the dough is super soft or sticky, you can add a little more flour.
 6. Place in a lightly greased bowl (I use non-stick spray), cover loosely.
@@ -69,11 +69,11 @@ Three options for topping are provided: Vanilla Glaze, Cream Cheese Frosting, Si
 1. Cover the pan. Allow the rolls to rise in a relatively warm environment for 60–90 minutes or until double in size.
 
 *Bake!*
-1. After the rolls have doubled in size, preheat the oven to 375°F (190°C).
-2. Bake for 24–27 minutes, or until lightly browned.
-   If you notice the tops are getting too brown too quickly, loosely tent the pan with aluminum foil and continue baking.
+1. After the rolls have doubled in size, preheat the oven to 350°F (190°C).
+2. Cover with aluminum foil, bake for 20 minutes.
+3. Take the aluminum foil off the top and let bake another 10 - 15 minutes to get lightly browned on top.
    If you want to be precise about their doneness, their internal temperature taken with an instant read thermometer should be around 195–200°F (91–93°C).
-3. Leave bare, glaze, cover in cream cheese icing, or coat in syrup & sprinkle spiced sugar as preferred.
+4. Leave bare, glaze, cover in cream cheese icing, or coat in syrup & sprinkle spiced sugar as preferred.
 
 *Alternative Bake Method*
 1. Make half the recipe for dough and filling, and assemble as directed.
