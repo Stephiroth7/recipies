@@ -1,26 +1,40 @@
 ## CINNAMON (CARDAMOM) ROLLS
 Adapted from https://sallysbakingaddiction.com/easy-cinnamon-rolls-from-scratch/ and https://true-north-kitchen.com/traditional-swedish-cardamom-buns-kardemummabullar/
 
-Makes app'x 10 - 12 rolls at 1.25" thickness
+Makes app'x 10 - 12 rolls
 
 Three options for topping are provided: Vanilla Glaze, Cream Cheese Frosting, Simple Syrup + Sugar.
+
+You will need:
+* stand mixer
+* rolling pin
+* offset spatula or pastry brush
+* non-stick spray oil
+* parchment paper
+* 9" x 13" baking dish (or two 8" square baking dishes)
+* food thermometer
 
 
 ### INGREDIENTS
 *DOUGH*
 * 2¾ cups (344g) all-purpose flour (spooned & leveled), plus more as needed for rolling dough
+  * reserve 15g of flour for the tangzhong
 * ¼ cup (50g) granulated sugar
 * ½ teaspoon salt
 * ¾ cup (180ml) whole or 2% milk
+  * reserve 75ml for the tangzhong
 * 3 Tablespoons (43g) unsalted butter
 * 2¼ teaspoons instant yeast (1 standard packet)
 * 1 large room temperature egg
 * 2 teaspoons crushed fresh cardamom seeds (very optional!)
 
 *FILLING*
-* 4 Tablespoons (55g) unsalted butter, softened but easily spreadable
-* ⅓ cup (67g) packed light or dark brown sugar
-* 1 Tablespoon ground cinnamon OR [1½ teaspoon ground cinnamon + 1½ teaspoon fresh ground cardamom]
+* 3 Tablespoons (55g) butter, softened but easily spreadable. Or melted.
+* ¼ cup (107g) packed light or dark brown sugar
+* 2 Tablespoons (14g) flour
+* 4 Teaspoons ground cinnamon OR [2 teaspoon ground cinnamon + 2 teaspoon fresh ground cardamom]
+* ¼ Teaspoon salt
+
 
 
 *ICING - Glaze*
@@ -42,37 +56,38 @@ Three options for topping are provided: Vanilla Glaze, Cream Cheese Frosting, Si
 
 ### PREPARATION
 *Make the filling*
-1. In a small bowl, combine the butter, brown sugar, and spices until well-mixed.
+1. In a small bowl, combine the filling's dry ingredients until well-mixed.
+
+*Make the Tangzhong*
+1. Combine the 15g flour and 75ml milk and heat while whisking constantly until a thick paste forms.
+  2. This can be done on the stove at medium heat, or microwave in small 15-second increments.
+3. Once done, put the tangzhong in the bowl of the stand mixer.
 
 *Make the Dough*
-1. Whisk the flour, sugar, and salt together in a large bowl. Set aside.
-2. Combine the milk and butter (and optional cardamom) together in a heatproof bowl and microwave until the butter has melted and the mixture is warm to the touch (about 110°F/43°C, no higher).
-3. Whisk the yeast into the milk + butter until it has dissolved.
-4. Pour yeast-milk-butter mixture into the dry ingredients, add the egg, and stir with a sturdy rubber spatula or wooden spoon
-   OR use a stand mixer with a paddle attachment on medium speed and mix until a soft dough forms, about 15 minutes.
-5. Transfer dough to a lightly floured surface. Using floured hands, knead the dough for 3-5 minutes. You should have a smooth ball of dough.
-   If the dough is super soft or sticky, you can add a little more flour.
-6. Place in a lightly greased bowl (I use non-stick spray), cover loosely.
-7. Let the dough rest for about 10 minutes.
+1. Use the spiral dough hook attachment for the stand mixer.
+2. Mix the remaining dry ingredients (flour, sugar, yeast, salt) together in a container. Set aside.
+3. Pour the remaining milk over the tangzhong in the stand mixer to help cool it off, and turn on the lowest setting. Let it mix for a minute or two.
+4. Add the dry ingredients to the mixer bowl and let combine for another minute or two.
+5. Add the remaining milk and butter to the bowl.
+6. Mix until a soft dough forms, about 15 minutes.
+7. Place in a lightly greased bowl (I use non-stick spray), cover loosely.
+9. Let the dough rest for about 30 - 40 minutes.
 
 *Make the Rolls*
-1. Roll out the dough on a floured surface so that it's about an 8" tall x 14" wide rectangle or ¼" thick
-2. Spread the filling mixture over the top from end to end, with no gaps
-3. Starting from the top, roll the widest end towards yourself
-4. Keep rolling until fully rolled into a log
-5. Measure the dough to get 10 to 12 same-width pieces and mark them
-6. Use a piece of thread to cut the rolls since it's very soft. 
+1. Roll out the dough on a floured surface so that it's about an 8" tall x 14" wide rectangle and ¼" thick
+2. Spread the melted butter (brush or offset spatula) for the filling over the top of the dough. Keep a ½" at the bottom edge clean so that the rolls can seal when they're rolled.
+3. sprinkle the dry ingredients of the filling mixture over the top from end to end, only keeping the bottom edge clean.
+4. Starting from the top, roll the widest end towards yourself
+5. Keep rolling until fully rolled into a log
+6. Measure the dough to get 10 to 14 same-width pieces and mark them
+7. Use a piece of thread to cut the rolls since it's very soft. 
   Slide the thread underneath the log where you've made your increments and cross the ends to pinch-cut the roll.
-7. arrange the pieces in a lightly greased 9- or 10-inch pan
-
-*Let Rolls Rise*
-1. Cover the pan. Allow the rolls to rise in a relatively warm environment for 60–90 minutes or until double in size.
+8. arrange the pieces in a lightly greased (or parchment lined) pan
 
 *Bake!*
-1. After the rolls have doubled in size, preheat the oven to 350°F (190°C).
-2. Cover with aluminum foil, bake for 20 minutes.
-3. Take the aluminum foil off the top and let bake another 10 - 15 minutes to get lightly browned on top.
-   If you want to be precise about their doneness, their internal temperature taken with an instant read thermometer should be around 195–200°F (91–93°C).
+1. Preheat the oven to 375°F (190°C).
+2. Let bake until lightly browned on top, between 14 - 18 minutes. Rotate the pan halfway through.
+   Their internal temperature taken with an instant read thermometer should be around 190–210°F (88–98°C).
 4. Leave bare, glaze, cover in cream cheese icing, or coat in syrup & sprinkle spiced sugar as preferred.
 
 *Alternative Bake Method*
